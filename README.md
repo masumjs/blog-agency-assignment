@@ -28,8 +28,8 @@ A full-stack blogging platform where users can create, read, update, and delete 
 - **Backend (Server)**: [Agency Blog Backend](https://blog-agency-assignment-cw54.vercel.app/)  
 
 ### Admin Panel Credentials
-- **Username**: `istiak_ahammad`  
-- **Password**: `qwertyuiop`  
+- **Username**: `masumjs24`  
+- **Password**: `12345`  
 
 ---
 
